@@ -9,7 +9,7 @@
                         <p class="mb-4 mt-8 text-teal-300">I started learning PHP and SQL in 2020. I had same knowledge of HTML and CSS before that. Then I started learning Javascript for frontend part. I've never stopped learning since then, I really want to learn more and improve myself. In spring of 2022. I was at intership in company Omni Solutions, Belgrade. <br>
                         Before going into web development, I was civil engineering student (2013-2017). I thought Math during that time (it was one of the few subjects since elementary school that I liked and was good at). <br>
                         Generally about me sa a person, <br>
-                        I love sports (football and basketball above all), video games, movies and TV shows, rock and (some) metal music. Also I'm an animal lover and I'm trying to help streat dogs as much as I can.
+                        I love sports (football and basketball above all), video games, movies and TV shows, rock and (some) metal music. Also I'm an animal lover and I'm trying to help street dogs as much as I can.
                         </p>
                     </div>
                 </div>
