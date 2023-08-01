@@ -3,11 +3,11 @@
         <div class="container mx-auto h-full">
             <div class="items-center h-full flex pt-8 text-teal-300">
                 <div class="flex-1 flex flex-col items-center lg:items-start">
-                    <p class="text-lg text-md mb-[22px]">Hey, I'm Nikola</p>
+                    <p class="text-lg text-md mb-[22px]">Hey, I'm Nikola and</p>
                     <h1 class="text-4xl text-teal-200 leading=[44px] md:text-5xl md:leading-tight lg:text-7xl lg:leading-[1.2] font-bold md:tracking-[-2px]">
                         I'm a PHP Developer!
                     </h1>
-                    <p class="pt-4 pb-8 md:pt-6 md:pb-12 max-w-[480px] text-lg text-center lg:text-left">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius officia quos porro, voluptates soluta in quidem ipsa molestias asperiores iure!</p>
+                    <p class="pt-4 pb-8 md:pt-6 md:pb-12 max-w-[480px] text-lg text-center lg:text-left">Web developer, specializing mostly in PHP (MySQL and SQL), trying to learn and improve every day, also having some experience with JS, jQuery, Vue.</p>
                     <button class="btn btn-md bg-cyan-950 hover:bg-cyan-500 text-white font-bold py-2 px-4 rounded-full">Work with me</button>
                 </div>
                 <div class="hidden lg:flex flex-1 justify-end items-center h-full">
