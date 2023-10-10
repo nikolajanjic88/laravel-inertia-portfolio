@@ -1,5 +1,5 @@
 <template>
-    <Head title="Skills" />
+    <Head title="Projects" />
     <Manage>
         <div class="py-12 bg-zinc-950 text-teal-300 h-[100vh]">
             <div class="max-w-7xl flex justify-around mx-auto sm:px-6 lg:px-8">
