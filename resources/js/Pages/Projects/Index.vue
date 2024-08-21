@@ -1,7 +1,7 @@
 <template>
     <Head title="Projects" />
     <Manage>
-        <div class="py-12 bg-zinc-950 text-teal-300 h-[100vh]">
+        <div class="py-12 bg-zinc-950 text-teal-300">
             <div class="max-w-7xl flex justify-around mx-auto sm:px-6 lg:px-8">
                 <div class="m-5">
                     <Link :href="route('home')" class="px-4 py-2 bg-yellow-500 hover:bg-yellow-700 text-white rounded-md">Home Page</Link>

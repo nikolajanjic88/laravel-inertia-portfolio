@@ -21,7 +21,7 @@
                             v-model="form.name"
                             autofocus
                             autocomplete="name"
-                            class="bg-gray-50 border border-gray-300 text-teal-300 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5" placeholder="Project Name">
+                            class="bg-gray-50 border border-gray-300 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5" placeholder="Project Name">
                             <div class="text-red-800" v-if="form.errors.name">{{ form.errors.name }}</div>
                     </div>
                     <div class="mb-6">
@@ -31,11 +31,11 @@
                             type="text"
                             v-model="form.project_url"
                             autofocus
-                            class="bg-gray-50 border border-gray-300 text-teal-300 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5" placeholder="Project URL">
+                            class="bg-gray-50 border border-gray-300 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5" placeholder="Project URL">
                             <div class="text-red-800" v-if="form.errors.project_url">{{ form.errors.project_url }}</div>
                     </div>
                     <div class="mb-6">
-                        <label for="image" class="block mb-2 text-sm font-medium text-teal-300 dark:text-white">Project Image</label>
+                        <label for="image" class="block mb-2 text-sm font-medium text-teal-300">Project Image</label>
                         <input
                             id="image"
                             type="file"
